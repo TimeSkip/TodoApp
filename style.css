@@ -1,0 +1,9 @@
+.center-text {
+  text-align: center;
+  border-bottom: solid 1px gray;
+  margin-bottom: 25px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
